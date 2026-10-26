@@ -16,11 +16,11 @@ Pasos realizados para el desarrollo de este proyecto
 
 ![Imagen 4](img/Imagen4.jpg)
 
-6. Le pedí a la IA (Copilot), que me entregara un código que me permitiera calcular el Indice de masa corporal. Como respuesta la Ia me generó el código necesario para poder realizar ese calculo.
+6. Le pedí a la IA (Copilot), que me entregara un código que me permitiera calcular el Indice de masa corporal. Como respuesta la IA me generó el código necesario para poder realizar ese calculo.
 
 ![Descripción breve de la imagen](img/Imagen1.jpg)
 
-7. Luego de pedirle a la Ia que me entregara el código fuente, la Ia lo pegó automaticamente dentro del archivo "Recommendation_system.py".
+7. Luego de pedirle a la IA que me entregara el código fuente, la Ia lo pegó automaticamente dentro del archivo "Recommendation_system.py".
 
 ![Descripción breve de la imagen](img/Imagen2.jpg)
 
