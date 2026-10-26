@@ -24,3 +24,11 @@ Pasos realizados para el desarrollo de este proyecto
 
 ![Descripción breve de la imagen](img/Imagen2.jpg)
 
+8. Se instala la extensión de git en VS code, luego de eso se ejecuta el comando "git add ." para agregar todos los archivos del proyecto, luego ingreso un comentario en git "Primera versión", luego ajecuto el comando commit y finalmente ejecuto el comando push (con este último comando subo desde mi disco local a GitHub los cambios/modificaciones de mi proyecto),
+
+![Descripción breve de la imagen](img/Imagen6.jpg)
+
+9. Luego voy a GitHub, actualizo la vista del navegador y compruebo que las modificaciones realizadas se guardaron en el repositorio. 
+
+![Descripción breve de la imagen](img/Imagen7.jpg)
+
